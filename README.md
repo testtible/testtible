@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20MyGithub&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20My%20Github&fontSize=50" />
 </div>
 <div align=center>
   <h4>📌 Tech Stack 📌</h4>
@@ -26,6 +26,10 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
+</div>
+<br />
+<div align=center>
+	<p>Stats</p>
 </div>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testtible&layout=compact)](https://github.com/testtible/github-readme-stats" />
